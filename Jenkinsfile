@@ -8,7 +8,7 @@ stage('Checkout'){
 
 steps{
 
-git branch: "main", url: 'https://github.com/chiranjiv09/g2-notification-service.git'
+git branch: "main", url: 'https://github.com/mdtauqeeralam21/noticification-service.git'
 
 }
 
@@ -18,9 +18,7 @@ stage('Build'){
 
 steps{
 
-sh 'chmod a+x mvnw'
-
-sh './mvnw clean package -DskipTests=true'
+sh 'mvn clean package -DskipTests=true'
 
 }
 
@@ -40,7 +38,7 @@ stage('DockerBuild') {
 
 steps {
 
-sh 'docker build -t kushck09/g2-notification-service:latest .'
+sh 'docker build -t tauqeeralam21/g2-noticification-service:latest .'
 
 }
 
@@ -50,7 +48,7 @@ stage('Login') {
 
 steps {
 
-sh 'echo dockerhub123 | docker login -u kushck09 --password-stdin'
+sh 'echo Tauqeer@786 | docker login -u tauqeeralam21 --password-stdin'
 
 }
 
@@ -60,7 +58,7 @@ stage('Push') {
 
 steps {
 
-sh 'docker push kushck09/g2-notification-service'
+sh 'docker push tauqeeralam21/g2-noticification-service'
 
 }
 

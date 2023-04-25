@@ -1,0 +1,89 @@
+2023-04-25T14:22:56.900+05:30  INFO 11892 --- [restartedMain] c.pms.G2NotificationServiceApplication   : Starting G2NotificationServiceApplication using Java 17.0.6 with PID 11892 (C:\Users\kushw\Documents\g2-capstone-backend-services\g2-notification-service\target\classes started by kushw in C:\Users\kushw\Documents\g2-capstone-backend-services\g2-notification-service)
+2023-04-25T14:22:56.908+05:30  INFO 11892 --- [restartedMain] c.pms.G2NotificationServiceApplication   : No active profile set, falling back to 1 default profile: "default"
+2023-04-25T14:22:56.997+05:30  INFO 11892 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2023-04-25T14:22:58.800+05:30  INFO 11892 --- [restartedMain] trationDelegate$BeanPostProcessorChecker : Bean 'org.springframework.ws.config.annotation.DelegatingWsConfiguration' of type [org.springframework.ws.config.annotation.DelegatingWsConfiguration$$SpringCGLIB$$0] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2023-04-25T14:22:58.853+05:30  INFO 11892 --- [restartedMain] .w.s.a.s.AnnotationActionEndpointMapping : Supporting [WS-Addressing August 2004, WS-Addressing 1.0]
+2023-04-25T14:22:59.432+05:30  INFO 11892 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 9008 (http)
+2023-04-25T14:22:59.443+05:30  INFO 11892 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2023-04-25T14:22:59.443+05:30  INFO 11892 --- [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.7]
+2023-04-25T14:22:59.583+05:30  INFO 11892 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2023-04-25T14:22:59.584+05:30  INFO 11892 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 2585 ms
+2023-04-25T14:23:03.607+05:30  WARN 11892 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : Unable to start LiveReload server
+2023-04-25T14:23:03.624+05:30  INFO 11892 --- [restartedMain] o.s.b.a.e.web.EndpointLinksResolver      : Exposing 1 endpoint(s) beneath base path '/actuator'
+2023-04-25T14:23:03.762+05:30  INFO 11892 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 9008 (http) with context path ''
+2023-04-25T14:23:03.788+05:30  INFO 11892 --- [restartedMain] c.pms.G2NotificationServiceApplication   : Started G2NotificationServiceApplication in 7.484 seconds (process running for 8.854)
+2023-04-25T14:23:05.078+05:30  INFO 11892 --- [RMI TCP Connection(9)-127.0.0.1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-04-25T14:23:05.078+05:30  INFO 11892 --- [RMI TCP Connection(9)-127.0.0.1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2023-04-25T14:23:05.082+05:30  INFO 11892 --- [RMI TCP Connection(9)-127.0.0.1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 4 ms
+2023-04-25T14:23:26.681+05:30  INFO 11892 --- [http-nio-9008-exec-9] o.springdoc.api.AbstractOpenApiResource  : Init duration for springdoc-openapi is: 254 ms
+2023-04-25T14:58:51.013+05:30  INFO 11892 --- [File Watcher] rtingClassPathChangeChangedEventListener : Restarting due to 3 class path changes (0 additions, 0 deletions, 3 modifications)
+2023-04-25T14:58:51.181+05:30  INFO 11892 --- [Thread-1] o.apache.catalina.core.StandardService   : Stopping service [Tomcat]
+2023-04-25T14:58:51.193+05:30  INFO 11892 --- [Thread-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Destroying Spring FrameworkServlet 'dispatcherServlet'
+2023-04-25T14:58:51.638+05:30  INFO 11892 --- [restartedMain] c.pms.G2NotificationServiceApplication   : Starting G2NotificationServiceApplication using Java 17.0.6 with PID 11892 (C:\Users\kushw\Documents\g2-capstone-backend-services\g2-notification-service\target\classes started by kushw in C:\Users\kushw\Documents\g2-capstone-backend-services\g2-notification-service)
+2023-04-25T14:58:51.639+05:30  INFO 11892 --- [restartedMain] c.pms.G2NotificationServiceApplication   : No active profile set, falling back to 1 default profile: "default"
+2023-04-25T14:58:52.400+05:30  INFO 11892 --- [restartedMain] trationDelegate$BeanPostProcessorChecker : Bean 'org.springframework.ws.config.annotation.DelegatingWsConfiguration' of type [org.springframework.ws.config.annotation.DelegatingWsConfiguration$$SpringCGLIB$$0] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2023-04-25T14:58:52.412+05:30  INFO 11892 --- [restartedMain] .w.s.a.s.AnnotationActionEndpointMapping : Supporting [WS-Addressing August 2004, WS-Addressing 1.0]
+2023-04-25T14:58:52.663+05:30  INFO 11892 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 9008 (http)
+2023-04-25T14:58:52.664+05:30  INFO 11892 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2023-04-25T14:58:52.664+05:30  INFO 11892 --- [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.7]
+2023-04-25T14:58:52.716+05:30  INFO 11892 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2023-04-25T14:58:52.716+05:30  INFO 11892 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1058 ms
+2023-04-25T14:58:55.134+05:30  WARN 11892 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : Unable to start LiveReload server
+2023-04-25T14:58:55.149+05:30  INFO 11892 --- [restartedMain] o.s.b.a.e.web.EndpointLinksResolver      : Exposing 1 endpoint(s) beneath base path '/actuator'
+2023-04-25T14:58:55.207+05:30  INFO 11892 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 9008 (http) with context path ''
+2023-04-25T14:58:55.221+05:30  INFO 11892 --- [restartedMain] c.pms.G2NotificationServiceApplication   : Started G2NotificationServiceApplication in 3.626 seconds (process running for 2160.287)
+2023-04-25T14:58:55.226+05:30  INFO 11892 --- [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2023-04-25T14:59:04.962+05:30  INFO 20072 --- [restartedMain] c.pms.G2NotificationServiceApplication   : Starting G2NotificationServiceApplication using Java 17.0.6 with PID 20072 (C:\Users\kushw\Documents\g2-capstone-backend-services\g2-notification-service\target\classes started by kushw in C:\Users\kushw\Documents\g2-capstone-backend-services\g2-notification-service)
+2023-04-25T14:59:04.965+05:30  INFO 20072 --- [restartedMain] c.pms.G2NotificationServiceApplication   : No active profile set, falling back to 1 default profile: "default"
+2023-04-25T14:59:05.040+05:30  INFO 20072 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2023-04-25T14:59:06.823+05:30  INFO 20072 --- [restartedMain] trationDelegate$BeanPostProcessorChecker : Bean 'org.springframework.ws.config.annotation.DelegatingWsConfiguration' of type [org.springframework.ws.config.annotation.DelegatingWsConfiguration$$SpringCGLIB$$0] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2023-04-25T14:59:06.874+05:30  INFO 20072 --- [restartedMain] .w.s.a.s.AnnotationActionEndpointMapping : Supporting [WS-Addressing August 2004, WS-Addressing 1.0]
+2023-04-25T14:59:07.552+05:30  INFO 20072 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 9008 (http)
+2023-04-25T14:59:07.565+05:30  INFO 20072 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2023-04-25T14:59:07.565+05:30  INFO 20072 --- [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.7]
+2023-04-25T14:59:07.700+05:30  INFO 20072 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2023-04-25T14:59:07.701+05:30  INFO 20072 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 2659 ms
+2023-04-25T14:59:11.300+05:30  WARN 20072 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : Unable to start LiveReload server
+2023-04-25T14:59:11.318+05:30  INFO 20072 --- [restartedMain] o.s.b.a.e.web.EndpointLinksResolver      : Exposing 1 endpoint(s) beneath base path '/actuator'
+2023-04-25T14:59:11.400+05:30  WARN 20072 --- [restartedMain] ConfigServletWebServerApplicationContext : Exception encountered during context initialization - cancelling refresh attempt: org.springframework.context.ApplicationContextException: Failed to start bean 'webServerStartStop'
+2023-04-25T14:59:11.424+05:30  INFO 20072 --- [restartedMain] o.apache.catalina.core.StandardService   : Stopping service [Tomcat]
+2023-04-25T14:59:11.451+05:30  INFO 20072 --- [restartedMain] .s.b.a.l.ConditionEvaluationReportLogger : 
+
+Error starting ApplicationContext. To display the condition evaluation report re-run your application with 'debug' enabled.
+2023-04-25T14:59:11.477+05:30 ERROR 20072 --- [restartedMain] o.s.b.d.LoggingFailureAnalysisReporter   : 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Web server failed to start. Port 9008 was already in use.
+
+Action:
+
+Identify and stop the process that's listening on port 9008 or configure this application to listen on another port.
+
+2023-04-25T14:59:19.313+05:30  INFO 11892 --- [RMI TCP Connection(49)-127.0.0.1] inMXBeanRegistrar$SpringApplicationAdmin : Application shutdown requested.
+2023-04-25T14:59:19.327+05:30  INFO 11892 --- [RMI TCP Connection(49)-127.0.0.1] o.apache.catalina.core.StandardService   : Stopping service [Tomcat]
+2023-04-25T14:59:31.134+05:30  INFO 9280 --- [restartedMain] c.pms.G2NotificationServiceApplication   : Starting G2NotificationServiceApplication using Java 17.0.6 with PID 9280 (C:\Users\kushw\Documents\g2-capstone-backend-services\g2-notification-service\target\classes started by kushw in C:\Users\kushw\Documents\g2-capstone-backend-services\g2-notification-service)
+2023-04-25T14:59:31.138+05:30  INFO 9280 --- [restartedMain] c.pms.G2NotificationServiceApplication   : No active profile set, falling back to 1 default profile: "default"
+2023-04-25T14:59:31.210+05:30  INFO 9280 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2023-04-25T14:59:32.945+05:30  INFO 9280 --- [restartedMain] trationDelegate$BeanPostProcessorChecker : Bean 'org.springframework.ws.config.annotation.DelegatingWsConfiguration' of type [org.springframework.ws.config.annotation.DelegatingWsConfiguration$$SpringCGLIB$$0] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2023-04-25T14:59:32.994+05:30  INFO 9280 --- [restartedMain] .w.s.a.s.AnnotationActionEndpointMapping : Supporting [WS-Addressing August 2004, WS-Addressing 1.0]
+2023-04-25T14:59:33.628+05:30  INFO 9280 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 9008 (http)
+2023-04-25T14:59:33.639+05:30  INFO 9280 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2023-04-25T14:59:33.640+05:30  INFO 9280 --- [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.7]
+2023-04-25T14:59:33.769+05:30  INFO 9280 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2023-04-25T14:59:33.770+05:30  INFO 9280 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 2558 ms
+2023-04-25T14:59:37.234+05:30  WARN 9280 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : Unable to start LiveReload server
+2023-04-25T14:59:37.253+05:30  INFO 9280 --- [restartedMain] o.s.b.a.e.web.EndpointLinksResolver      : Exposing 1 endpoint(s) beneath base path '/actuator'
+2023-04-25T14:59:37.349+05:30  INFO 9280 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 9008 (http) with context path ''
+2023-04-25T14:59:37.373+05:30  INFO 9280 --- [restartedMain] c.pms.G2NotificationServiceApplication   : Started G2NotificationServiceApplication in 6.767 seconds (process running for 7.747)
+2023-04-25T14:59:38.340+05:30  INFO 9280 --- [RMI TCP Connection(9)-127.0.0.1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-04-25T14:59:38.341+05:30  INFO 9280 --- [RMI TCP Connection(9)-127.0.0.1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2023-04-25T14:59:38.343+05:30  INFO 9280 --- [RMI TCP Connection(9)-127.0.0.1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 2 ms
+2023-04-25T15:00:47.955+05:30  INFO 9280 --- [http-nio-9008-exec-3] o.springdoc.api.AbstractOpenApiResource  : Init duration for springdoc-openapi is: 297 ms
+2023-04-25T15:04:03.297+05:30  INFO 9280 --- [RMI TCP Connection(17)-127.0.0.1] inMXBeanRegistrar$SpringApplicationAdmin : Application shutdown requested.
+2023-04-25T15:04:03.320+05:30  INFO 9280 --- [RMI TCP Connection(17)-127.0.0.1] o.apache.catalina.core.StandardService   : Stopping service [Tomcat]
+2023-04-25T15:04:03.322+05:30  INFO 9280 --- [RMI TCP Connection(17)-127.0.0.1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Destroying Spring FrameworkServlet 'dispatcherServlet'
